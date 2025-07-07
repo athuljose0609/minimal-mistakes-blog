@@ -324,3 +324,6 @@ collections:
     output: true
     permalink: /:path/
     source: docs/_pages
+
+navigation:
+  enabled: true
