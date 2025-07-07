@@ -327,7 +327,7 @@ defaults:
       author_profile: true
 
   - scope:
-      path:""
+      path: ""
       type: design
     values:
       layout: single
