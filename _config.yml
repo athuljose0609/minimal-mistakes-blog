@@ -113,16 +113,21 @@ analytics:
 
 
 # Site Author
+# Site Author
 author:
-  name             : "Athul Jose"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "🎓 Master's student |🎨 Designer |📸 Photographer |✍️ Writer"
-  location         : "Somewhere"
-  email            :
+  name     : "Athul Jose"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : |
+    🎓 Master's student  
+    🎨 Designer  
+    📸 Photographer  
+    ✍️ Writer
+  location : "Berlin 🇩🇪, Germany"
+  email            : "athuljose0609@gmail.com"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-    - url: "https://www.linkedin.com/in/athul-jose-17b88a319/"
+      url: "https://www.linkedin.com/in/athul-jose-17b88a319/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:athuljose0609@gmail.com"
