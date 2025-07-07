@@ -327,10 +327,11 @@ defaults:
       author_profile: true
 
   - scope:
-      path: ""
+      path: "_design"
       type: design
     values:
       layout: single
+      author_profile: true
 
 
 nav:
