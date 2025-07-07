@@ -325,7 +325,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+nav:
+  - title: "Design and Photography"
+    url: /design/
 
+collections:
+  design:
+    output: true
+    permalink: /design/:title/
 
 navigation:
   enabled: true
