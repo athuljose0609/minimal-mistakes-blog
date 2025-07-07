@@ -5,7 +5,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "Professional Intro"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /prof/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

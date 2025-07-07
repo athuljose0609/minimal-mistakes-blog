@@ -1,10 +1,8 @@
 ---
 layout: single
-permalink: /about/
-title: "About Me"
+permalink: /prof/
+title: "Professional Profile"
 ---
-
-# Professional Profile
 
 ## About
 
